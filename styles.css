@@ -1,0 +1,60 @@
+img {
+  width: 200px;
+  height: 225px;
+  border-radius: 100px;
+  margin-left: 650;
+}
+.name {
+  font-size: 25;
+  font-style: oblique;
+  font-weight: bolder;
+  text-align: center;
+}
+.details {
+  font-size: 20;
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+.about-me {
+  font-size: 20;
+  text-align: center;
+}
+h2 {
+  font-weight: bold;
+  text-align: center;
+}
+h3 {
+  font-size: larger;
+  font-weight: 200;
+  text-align: center;
+}
+a {
+  font-size: larger;
+  margin-left: 650;
+  text-align: center;
+}
+li {
+  font-size: larger;
+  margin-left: 650;
+}
+.education {
+  text-align: center;
+}
+.contact {
+  text-align: center;
+}
+.comm {
+  text-align: center;
+}
+.prg {
+  text-align: center;
+}
+.skills {
+  text-align: center;
+}
+.exp {
+  text-align: center;
+}
